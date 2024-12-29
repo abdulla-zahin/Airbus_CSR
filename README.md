@@ -115,6 +115,6 @@ This project is licensed under the Northumbria University
 
 ## 🔗 Links
 - [Airbus Official Website](https://www.airbus.com)
-- [Detailed Report](Report.pdf)
+- [Detailed Report](https://github.com/abdulla-zahin/Airbus_CSR/blob/main/Abdulla%20Zahin-22075833-LD0474%20.pdf)
 
 ---
