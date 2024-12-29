@@ -110,7 +110,7 @@ Airbus has consistently balanced **corporate responsibility** with financial sus
 └── LICENSE
 ```
 
----## 📜 License
+📜 License
 This project is licensed under the Northumbria University
 
 ## 🔗 Links
